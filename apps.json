@@ -1,0 +1,202 @@
+{
+ "apps": [
+  {
+   "appId": "1",
+   "name": "Netflix",
+   "icon": "https://img.vidaahub.com/vidaa/2023/11/202311090857551807.png",
+   "native": true,
+   "glow": [
+    237,
+    95,
+    99
+   ],
+   "backdrop": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAAFCAYAAABvsz2cAAAAF0lEQVR4nGP8////fwYGBgYmBijAwwAAqmQEBm8AZDEAAAAASUVORK5CYII=",
+   "bg": "rgb(255,255,255)"
+  },
+  {
+   "appId": "295",
+   "name": "Disney+",
+   "icon": "https://img.vidaahub.com/vidaa/2024/11/202411260732081526.png",
+   "url": "https://cd-dmgz.bamgrid.com/bbd/hisense_tv/index.html",
+   "glow": [
+    4,
+    80,
+    94
+   ],
+   "backdrop": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAAFCAYAAABvsz2cAAAAMklEQVR4nAXBwREAEAxFwRf5R0MBuavA6L8tI4NdY8zHuRRqBXdEb7APIoKSiXwtZMkH0rUJMUDnFIUAAAAASUVORK5CYII=",
+   "bg": "rgb(1,66,80)"
+  },
+  {
+   "appId": "2",
+   "name": "Prime Video",
+   "icon": "https://img.vidaahub.com/vidaa/2024/11/202411210932408667.png",
+   "native": true,
+   "glow": [
+    14,
+    124,
+    255
+   ],
+   "backdrop": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAAFCAYAAABvsz2cAAAAFklEQVR4nGMUqPv/n4GBgYGJAQrwMABrpQKWSg8VpwAAAABJRU5ErkJggg==",
+   "bg": "rgb(7,121,255)"
+  },
+  {
+   "appId": "2378",
+   "name": "HBO Max",
+   "icon": "https://img.vidaahub.com/vidaa/2025/7/202507091016437937.png",
+   "url": "https://vidaa.play.max.com/",
+   "glow": [
+    17,
+    23,
+    33
+   ],
+   "backdrop": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAAFCAYAAABvsz2cAAAAKUlEQVR4nAXByQ3AIBAEMK8YyIv+e+UQsasyH6SPD09aGsg9ByV7LfADkbgIIyeYCX0AAAAASUVORK5CYII=",
+   "bg": "rgb(5,9,18)"
+  },
+  {
+   "appId": "351",
+   "name": "Apple TV",
+   "icon": "https://img.vidaahub.com/vidaa/2025/11/202511050649298835.png",
+   "url": "https://atve.tv.apple.com/94819831-5404-4438-810e-afb648d6a826/tvw_1dc2aab0a313427dbc11818be8a18bd9/",
+   "glow": [
+    153,
+    162,
+    169
+   ],
+   "backdrop": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAAFCAYAAABvsz2cAAAAGElEQVR4nGPU09P7z8jIyMDy69cvBgIMADNNDWIPAxmjAAAAAElFTkSuQmCC",
+   "bg": "rgb(34,34,34)"
+  },
+  {
+   "appId": "334",
+   "name": "Paramount+",
+   "icon": "https://img.vidaahub.com/vidaa/2022/5/202205090739158843.png",
+   "url": "https://www.intl.paramountplus.com/smart-console-apps/vidaa/",
+   "glow": [
+    6,
+    106,
+    255
+   ],
+   "backdrop": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAAFCAYAAABvsz2cAAAAFklEQVR4nGNkSP//n4GBgYGJAQrwMABlCAJv/XdONwAAAABJRU5ErkJggg==",
+   "bg": "rgb(0,103,255)"
+  },
+  {
+   "appId": "300",
+   "name": "RTL TVNOW",
+   "icon": "https://img.vidaahub.com/vidaa/2023/11/202311090925176358.png",
+   "url": "https://hisense.rtlde.bedrock.tech/",
+   "glow": [
+    137,
+    78,
+    68
+   ],
+   "backdrop": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAAFCAYAAABvsz2cAAAAFklEQVR4nGNkYGD4z8DAwMDEAAV4GAAp5QEJpe/c/AAAAABJRU5ErkJggg==",
+   "bg": "rgb(0,0,0)"
+  },
+  {
+   "appId": "2567",
+   "name": "MagentaTV",
+   "icon": "https://img.vidaahub.com/s3_bucket/9999/app/9999_a8df3ac1-da4d-42df-a4ab-f356e12b2ab1/55e8c44aa0b977ad2a3b669c25396bd4?f=webp&resize=w_300,h_300",
+   "url": "https://svc83.cdn.tv.telekom.net/HTMLsmartTV/Hisense/productionRelease/index.html",
+   "glow": [
+    237,
+    23,
+    133
+   ],
+   "backdrop": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAAFCAYAAABvsz2cAAAAL0lEQVR4nCXGwQ0AIAgAsSNhG/d1UCNBMKIP+6pk61EUuoYBF43pP+mOAHpyA/AA38kSXhP5bxMAAAAASUVORK5CYII=",
+   "bg": "rgb(237,20,131)"
+  },
+  {
+   "appId": "3",
+   "name": "YouTube",
+   "icon": "https://img.vidaahub.com/vidaa/2023/11/202311090858299321.png",
+   "native": true,
+   "glow": [
+    255,
+    38,
+    38
+   ],
+   "backdrop": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAAFCAYAAABvsz2cAAAAF0lEQVR4nGP8////fwYGBgYmBijAwwAAqmQEBm8AZDEAAAAASUVORK5CYII=",
+   "bg": "rgb(255,255,255)"
+  },
+  {
+   "appId": "162",
+   "name": "DAZN",
+   "icon": "https://img.vidaahub.com/vidaa/2024/5/202405300640297559.png",
+   "url": "https://tv.dazn.com/app/vidaa/",
+   "glow": [
+    9,
+    14,
+    18
+   ],
+   "backdrop": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAAFCAYAAABvsz2cAAAAFklEQVR4nGPk4BP6z8DAwMDEAAV4GAAwkwExdHTm0AAAAABJRU5ErkJggg==",
+   "bg": "rgb(8,14,18)"
+  },
+  {
+   "appId": "1908",
+   "name": "JOYN",
+   "icon": "https://img.vidaahub.com/vidaa/2026/4/202604021633567071.png",
+   "url": "https://live.prd.ott.s.joyn.de/?platform=vidaa",
+   "glow": [
+    1,
+    122,
+    120
+   ],
+   "backdrop": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAAFCAYAAABvsz2cAAAAM0lEQVR4nAXBUQoAEBRFwfPqlSj82IUV+LH/JZG4ZoyYZXo4ISFd3FIBDk5tqG6cPrC5+AxNCwq/RjSeAAAAAElFTkSuQmCC",
+   "bg": "rgb(0,46,50)"
+  },
+  {
+   "appId": "2201",
+   "name": "WOW",
+   "icon": "https://img.vidaahub.com/vidaa/2023/12/202312190956364739.png",
+   "url": "https://tv.clients.nowtv.com/vidaa-nowdeutschland.html?classicTerritory=DE&DCMP=VIDAAWNOWAPPTILE",
+   "glow": [
+    12,
+    87,
+    93
+   ],
+   "backdrop": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAAFCAYAAABvsz2cAAAANElEQVR4nAXBMQ4AEAxA0d/GmQwmg/tfhVCSGtR7kmqLyAXVexEzVEZHbKJxNmwjPXdYiw+mRRRRcOVS9AAAAABJRU5ErkJggg==",
+   "bg": "rgb(5,69,74)"
+  },
+  {
+   "appId": "2372",
+   "name": "Crunchyroll",
+   "icon": "https://img.vidaahub.com/vidaa/2024/9/202409041444508945.png",
+   "url": "https://www.crunchyroll.com/tetsuo/hisense-vidaa/",
+   "glow": [
+    255,
+    97,
+    5
+   ],
+   "backdrop": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAAFCAYAAABvsz2cAAAAFklEQVR4nGP8H8fwn4GBgYGJAQrwMABlgwJmzTFZEgAAAABJRU5ErkJggg==",
+   "bg": "rgb(255,94,0)"
+  }
+ ],
+ "dock": [
+  "3",
+  "295",
+  "351",
+  "2378"
+ ],
+ "helper_dock": [
+  "1",
+  "3",
+  "2",
+  "295"
+ ],
+ "sources": [],
+ "browser": {
+  "search": "https://search.brave.com/search?q=%s",
+  "region": "de-de",
+  "links": [
+   {
+    "name": "Brave Search",
+    "url": "https://search.brave.com/"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://www.wikipedia.org/"
+   }
+  ]
+ },
+ "greeting_name": "Eric",
+ "clock_24h": true
+}
